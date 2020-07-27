@@ -1,0 +1,6 @@
+body{
+     background-color: rgba(207, 204, 204, 0.75);
+}
+#locationMap {
+    height: 400px;
+}
